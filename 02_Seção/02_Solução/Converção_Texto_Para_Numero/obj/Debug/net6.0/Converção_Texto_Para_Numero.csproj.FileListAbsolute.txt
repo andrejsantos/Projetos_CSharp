@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\bin\Debug\net6.0\Converção_Texto_Para_Numero.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\bin\Debug\net6.0\Converção_Texto_Para_Numero.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\bin\Debug\net6.0\Converção_Texto_Para_Numero.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\bin\Debug\net6.0\Converção_Texto_Para_Numero.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\bin\Debug\net6.0\Converção_Texto_Para_Numero.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\Converção_Texto_Para_Numero.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\Converção_Texto_Para_Numero.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\Converção_Texto_Para_Numero.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\Converção_Texto_Para_Numero.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\Converção_Texto_Para_Numero.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\Converção_Texto_Para_Numero.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\refint\Converção_Texto_Para_Numero.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\Converção_Texto_Para_Numero.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\Converção_Texto_Para_Numero.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Converção_Texto_Para_Numero\obj\Debug\net6.0\ref\Converção_Texto_Para_Numero.dll

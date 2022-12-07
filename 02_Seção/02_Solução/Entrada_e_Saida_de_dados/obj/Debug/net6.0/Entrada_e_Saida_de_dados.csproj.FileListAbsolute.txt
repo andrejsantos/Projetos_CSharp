@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\bin\Debug\net6.0\Entrada_e_Saida_de_dados.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\bin\Debug\net6.0\Entrada_e_Saida_de_dados.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\bin\Debug\net6.0\Entrada_e_Saida_de_dados.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\bin\Debug\net6.0\Entrada_e_Saida_de_dados.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\bin\Debug\net6.0\Entrada_e_Saida_de_dados.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\Entrada_e_Saida_de_dados.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\Entrada_e_Saida_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\Entrada_e_Saida_de_dados.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\Entrada_e_Saida_de_dados.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\Entrada_e_Saida_de_dados.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\Entrada_e_Saida_de_dados.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\refint\Entrada_e_Saida_de_dados.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\Entrada_e_Saida_de_dados.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\Entrada_e_Saida_de_dados.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Entrada_e_Saida_de_dados\obj\Debug\net6.0\ref\Entrada_e_Saida_de_dados.dll

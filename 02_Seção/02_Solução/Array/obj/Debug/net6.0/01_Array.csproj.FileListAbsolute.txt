@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\bin\Debug\net6.0\01_Array.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\bin\Debug\net6.0\01_Array.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\bin\Debug\net6.0\01_Array.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\bin\Debug\net6.0\01_Array.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\bin\Debug\net6.0\01_Array.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\01_Array.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\01_Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\01_Array.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\01_Array.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\01_Array.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\01_Array.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\refint\01_Array.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\01_Array.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\01_Array.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Array\obj\Debug\net6.0\ref\01_Array.dll

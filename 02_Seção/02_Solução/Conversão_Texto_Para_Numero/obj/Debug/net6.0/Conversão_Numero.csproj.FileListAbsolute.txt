@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\bin\Debug\net6.0\Conversão_Numero.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\bin\Debug\net6.0\Conversão_Numero.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\bin\Debug\net6.0\Conversão_Numero.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\bin\Debug\net6.0\Conversão_Numero.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\bin\Debug\net6.0\Conversão_Numero.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\Conversão_Numero.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\Conversão_Numero.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\Conversão_Numero.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\Conversão_Numero.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\Conversão_Numero.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\Conversão_Numero.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\refint\Conversão_Numero.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\Conversão_Numero.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\Conversão_Numero.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aula01\Conversão_Texto_Para_Numero\obj\Debug\net6.0\ref\Conversão_Numero.dll
