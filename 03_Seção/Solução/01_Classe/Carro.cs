@@ -8,5 +8,16 @@ namespace _01_Classe
         string marca = "chefrole"; //Toda vez que eu me referir essa clsse ele já vem com essa "Pré definição", podendo alterar mais para frente.
         string modelo;
         string cor;
+        bool luzesinternas;
+
+        void abrir()
+        {
+            luzesinternas = true;
+        }
+        void fechar()
+        {
+            luzesinternas = false;
+        }
+
     }
 }
