@@ -6,7 +6,7 @@ namespace _01_Classe
         static void main(String[] args)//Criando um objeto carro
         {
             Carro carro1 = new Carro();
-            Carro carro2 = new Carro();// É como se fosse dois carros do mesmo modelo e mesma cor.
+            Carro carro2 = new Carro();// É como se fosse dois carros do mesmo modelo e mesma cor
         }
     }
 }
