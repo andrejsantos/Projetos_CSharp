@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\refint\Aulas.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\Aulas\obj\Debug\net6.0\ref\Aulas.dll
