@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Aulas\\Aulas\\Aulas.csproj",
-      "projectName": "Aulas",
-      "projectPath": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Aulas\\Aulas\\Aulas.csproj",
+      "projectUniqueName": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Aulas\\Aulas\\1_Olá mundo.csproj",
+      "projectName": "1_Olá mundo",
+      "projectPath": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Aulas\\Aulas\\1_Olá mundo.csproj",
       "packagesPath": "C:\\Users\\Dré\\.nuget\\packages\\",
       "outputPath": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Aulas\\Aulas\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\bin\Debug\net6.0\2_Variaveis.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\bin\Debug\net6.0\2_Variaveis.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\bin\Debug\net6.0\2_Variaveis.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\bin\Debug\net6.0\2_Variaveis.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\bin\Debug\net6.0\2_Variaveis.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\2_Variaveis.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\2_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\2_Variaveis.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\2_Variaveis.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\2_Variaveis.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\2_Variaveis.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\refint\2_Variaveis.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\2_Variaveis.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\2_Variaveis.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\2_Variaveis\obj\Debug\net6.0\ref\2_Variaveis.dll

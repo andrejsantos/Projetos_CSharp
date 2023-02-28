@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\bin\Debug\net6.0\3_Variaveis.Flutuantes.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\bin\Debug\net6.0\3_Variaveis.Flutuantes.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\bin\Debug\net6.0\3_Variaveis.Flutuantes.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\bin\Debug\net6.0\3_Variaveis.Flutuantes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\bin\Debug\net6.0\3_Variaveis.Flutuantes.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\3_Variaveis.Flutuantes.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\3_Variaveis.Flutuantes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\3_Variaveis.Flutuantes.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\3_Variaveis.Flutuantes.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\3_Variaveis.Flutuantes.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\3_Variaveis.Flutuantes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\refint\3_Variaveis.Flutuantes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\3_Variaveis.Flutuantes.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\3_Variaveis.Flutuantes.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\3_Variaveis.Flutuantes\obj\Debug\net6.0\ref\3_Variaveis.Flutuantes.dll

@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\bin\Debug\net6.0\4_TestesPontoflutuantes.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\bin\Debug\net6.0\4_TestesPontoflutuantes.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\bin\Debug\net6.0\4_TestesPontoflutuantes.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\bin\Debug\net6.0\4_TestesPontoflutuantes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\bin\Debug\net6.0\4_TestesPontoflutuantes.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\4_TestesPontoflutuantes.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\4_TestesPontoflutuantes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\4_TestesPontoflutuantes.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\4_TestesPontoflutuantes.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\4_TestesPontoflutuantes.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\4_TestesPontoflutuantes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\refint\4_TestesPontoflutuantes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\4_TestesPontoflutuantes.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\4_TestesPontoflutuantes.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_TestesPontoflutuantes\obj\Debug\net6.0\ref\4_TestesPontoflutuantes.dll

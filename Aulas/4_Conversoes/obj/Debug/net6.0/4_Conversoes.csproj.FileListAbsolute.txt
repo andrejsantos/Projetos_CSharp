@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\bin\Debug\net6.0\4_Conversoes.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\bin\Debug\net6.0\4_Conversoes.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\bin\Debug\net6.0\4_Conversoes.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\bin\Debug\net6.0\4_Conversoes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\bin\Debug\net6.0\4_Conversoes.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\4_Conversoes.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\4_Conversoes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\4_Conversoes.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\4_Conversoes.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\4_Conversoes.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\4_Conversoes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\refint\4_Conversoes.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\4_Conversoes.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\4_Conversoes.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\4_Conversoes\obj\Debug\net6.0\ref\4_Conversoes.dll
