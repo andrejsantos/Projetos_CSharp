@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\bin\Debug\net6.0\5_CaracterETexto.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\bin\Debug\net6.0\5_CaracterETexto.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\bin\Debug\net6.0\5_CaracterETexto.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\bin\Debug\net6.0\5_CaracterETexto.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\bin\Debug\net6.0\5_CaracterETexto.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\5_CaracterETexto.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\5_CaracterETexto.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\5_CaracterETexto.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\5_CaracterETexto.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\5_CaracterETexto.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\5_CaracterETexto.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\refint\5_CaracterETexto.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\5_CaracterETexto.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\5_CaracterETexto.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\5_CaracterETexto\obj\Debug\net6.0\ref\5_CaracterETexto.dll

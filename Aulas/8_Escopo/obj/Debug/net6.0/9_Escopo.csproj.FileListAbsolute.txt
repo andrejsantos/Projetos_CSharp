@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\bin\Debug\net6.0\9_Escopo.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\bin\Debug\net6.0\9_Escopo.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\bin\Debug\net6.0\9_Escopo.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\bin\Debug\net6.0\9_Escopo.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\bin\Debug\net6.0\9_Escopo.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\9_Escopo.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\9_Escopo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\9_Escopo.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\9_Escopo.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\9_Escopo.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\9_Escopo.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\refint\9_Escopo.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\9_Escopo.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\9_Escopo.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\8_Escopo\obj\Debug\net6.0\ref\9_Escopo.dll

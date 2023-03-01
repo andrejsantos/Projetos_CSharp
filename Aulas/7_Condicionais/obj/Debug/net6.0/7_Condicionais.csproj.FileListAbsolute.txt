@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\bin\Debug\net6.0\7_Condicionais.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\bin\Debug\net6.0\7_Condicionais.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\bin\Debug\net6.0\7_Condicionais.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\bin\Debug\net6.0\7_Condicionais.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\bin\Debug\net6.0\7_Condicionais.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\7_Condicionais.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\7_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\7_Condicionais.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\7_Condicionais.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\7_Condicionais.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\7_Condicionais.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\refint\7_Condicionais.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\7_Condicionais.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\7_Condicionais.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\7_Condicionais\obj\Debug\net6.0\ref\7_Condicionais.dll
