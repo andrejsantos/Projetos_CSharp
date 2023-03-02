@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\bin\Debug\net6.0\z10_CalculaPoupança.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\bin\Debug\net6.0\z10_CalculaPoupança.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\bin\Debug\net6.0\z10_CalculaPoupança.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\bin\Debug\net6.0\z10_CalculaPoupança.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\bin\Debug\net6.0\z10_CalculaPoupança.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\z10_CalculaPoupança.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\z10_CalculaPoupança.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\z10_CalculaPoupança.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\z10_CalculaPoupança.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\z10_CalculaPoupança.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\z10_CalculaPoupança.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\refint\z10_CalculaPoupança.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\z10_CalculaPoupança.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\z10_CalculaPoupança.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\10_zCalculaPoupança\obj\Debug\net6.0\ref\z10_CalculaPoupança.dll

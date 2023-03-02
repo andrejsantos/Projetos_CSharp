@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "z10_CalculaPoupança/1.0.0": {
+        "runtime": {
+          "z10_CalculaPoupança.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "z10_CalculaPoupança/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

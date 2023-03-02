@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\bin\Debug\net6.0\z11_CalculaPoupaça2.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\bin\Debug\net6.0\z11_CalculaPoupaça2.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\bin\Debug\net6.0\z11_CalculaPoupaça2.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\bin\Debug\net6.0\z11_CalculaPoupaça2.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\bin\Debug\net6.0\z11_CalculaPoupaça2.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\z11_CalculaPoupaça2.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\z11_CalculaPoupaça2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\z11_CalculaPoupaça2.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\z11_CalculaPoupaça2.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\z11_CalculaPoupaça2.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\z11_CalculaPoupaça2.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\refint\z11_CalculaPoupaça2.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\z11_CalculaPoupaça2.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\z11_CalculaPoupaça2.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z11_CalculaPoupaça2\obj\Debug\net6.0\ref\z11_CalculaPoupaça2.dll

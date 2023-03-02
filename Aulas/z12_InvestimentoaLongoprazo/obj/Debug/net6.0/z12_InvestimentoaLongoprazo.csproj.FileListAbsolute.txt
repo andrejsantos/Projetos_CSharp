@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\bin\Debug\net6.0\z12_InvestimentoaLongoprazo.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\bin\Debug\net6.0\z12_InvestimentoaLongoprazo.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\bin\Debug\net6.0\z12_InvestimentoaLongoprazo.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\bin\Debug\net6.0\z12_InvestimentoaLongoprazo.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\bin\Debug\net6.0\z12_InvestimentoaLongoprazo.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\z12_InvestimentoaLongoprazo.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\z12_InvestimentoaLongoprazo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\z12_InvestimentoaLongoprazo.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\z12_InvestimentoaLongoprazo.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\z12_InvestimentoaLongoprazo.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\z12_InvestimentoaLongoprazo.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\refint\z12_InvestimentoaLongoprazo.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\z12_InvestimentoaLongoprazo.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\z12_InvestimentoaLongoprazo.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z12_InvestimentoaLongoprazo\obj\Debug\net6.0\ref\z12_InvestimentoaLongoprazo.dll

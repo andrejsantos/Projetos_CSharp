@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\bin\Debug\net6.0\z13_Encadear.exe
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\bin\Debug\net6.0\z13_Encadear.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\bin\Debug\net6.0\z13_Encadear.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\bin\Debug\net6.0\z13_Encadear.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\bin\Debug\net6.0\z13_Encadear.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\z13_Encadear.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\z13_Encadear.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\z13_Encadear.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\z13_Encadear.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\z13_Encadear.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\z13_Encadear.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\refint\z13_Encadear.dll
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\z13_Encadear.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\z13_Encadear.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Aulas\z13_Encadear\obj\Debug\net6.0\ref\z13_Encadear.dll
