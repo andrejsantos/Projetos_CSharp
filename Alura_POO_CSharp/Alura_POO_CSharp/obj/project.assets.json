@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Alura_POO_CSharp\\Alura_POO_CSharp\\Alura_POO_CSharp.csproj",
-      "projectName": "Alura_POO_CSharp",
-      "projectPath": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Alura_POO_CSharp\\Alura_POO_CSharp\\Alura_POO_CSharp.csproj",
+      "projectUniqueName": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Alura_POO_CSharp\\Alura_POO_CSharp\\Bank.csproj",
+      "projectName": "Bank",
+      "projectPath": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Alura_POO_CSharp\\Alura_POO_CSharp\\Bank.csproj",
       "packagesPath": "C:\\Users\\Dré\\.nuget\\packages\\",
       "outputPath": "G:\\Meu Drive\\Meu PC\\Programação\\C#\\Alura_POO_CSharp\\Alura_POO_CSharp\\obj\\",
       "projectStyle": "PackageReference",

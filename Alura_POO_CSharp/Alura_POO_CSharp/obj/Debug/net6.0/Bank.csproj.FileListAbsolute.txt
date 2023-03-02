@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\bin\Debug\net6.0\Bank.exe
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\bin\Debug\net6.0\Bank.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\bin\Debug\net6.0\Bank.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\bin\Debug\net6.0\Bank.dll
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\bin\Debug\net6.0\Bank.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\Bank.dll
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\refint\Bank.dll
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\Bank.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Alura_POO_CSharp\Alura_POO_CSharp\obj\Debug\net6.0\ref\Bank.dll
