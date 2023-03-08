@@ -65,3 +65,4 @@ Console.WriteLine($"Profissão: {conta.titular.profissao}");
 Console.WriteLine($"N° Conta: {conta.conta}");
 Console.WriteLine($"N° Agencia: {conta.numero_agencia}");
 Console.WriteLine($"Saldo: {conta.saldo}");
+
