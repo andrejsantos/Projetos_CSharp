@@ -48,21 +48,27 @@ using Bank.Titular;// Chamando classe
 //Console.ReadLine();
 
 
-Cliente cliente = new Cliente();
-cliente.nome = "André de J. Santos";
-cliente.cpf = "1234567-89";
-cliente.profissao = "Analista de sistemas";
+//Cliente cliente = new Cliente();
+//cliente.nome = "André de J. Santos";
+//cliente.cpf = "1234567-89";
+//cliente.profissao = "Analista de sistemas";
 
-ContaCorrente conta = new ContaCorrente();
-conta.titular = cliente;
-conta.conta = "1010-X";
-conta.numero_agencia = 1;
-conta.saldo = 100;
+//ContaCorrente conta = new ContaCorrente();
+//conta.titular = cliente;
+//conta.conta = "1010-X";
+//conta.numero_agencia = 1;
+//conta.saldo = 100;
 
-Console.WriteLine($"Titular: {conta.titular.nome}");//Navegando entre objetos
-Console.WriteLine($"CPF: {conta.titular.cpf}");
-Console.WriteLine($"Profissão: {conta.titular.profissao}");
-Console.WriteLine($"N° Conta: {conta.conta}");
-Console.WriteLine($"N° Agencia: {conta.numero_agencia}");
-Console.WriteLine($"Saldo: {conta.saldo}");
+//Console.WriteLine($"Titular: {conta.titular.nome}");//Navegando entre objetos
+//Console.WriteLine($"CPF: {conta.titular.cpf}");
+//Console.WriteLine($"Profissão: {conta.titular.profissao}");
+//Console.WriteLine($"N° Conta: {conta.conta}");
+//Console.WriteLine($"N° Agencia: {conta.numero_agencia}");
+//Console.WriteLine($"Saldo: {conta.saldo}");
 
+ContaCorrente conta3 = new ContaCorrente();
+conta3.Conta = "1011-H";
+conta3.Numero_agencia = 18;
+conta3.DefinirSaldo(-10);
+Console.WriteLine(conta3.ObterSaldo()); //Checando Saldo 
+Console.WriteLine(conta3.Numero_agencia);
