@@ -66,9 +66,12 @@ using Bank.Titular;// Chamando classe
 //Console.WriteLine($"N° Agencia: {conta.numero_agencia}");
 //Console.WriteLine($"Saldo: {conta.saldo}");
 
-ContaCorrente conta3 = new ContaCorrente();
-conta3.Conta = "1011-H";
-conta3.Numero_agencia = 18;
-conta3.DefinirSaldo(-10);
-Console.WriteLine(conta3.ObterSaldo()); //Checando Saldo 
-Console.WriteLine(conta3.Numero_agencia);
+//ContaCorrente conta3 = new ContaCorrente();
+//conta3.Conta = "1011-H";
+//conta3.Numero_agencia = 18;
+//conta3.DefinirSaldo(-10);
+//Console.WriteLine(conta3.ObterSaldo()); //Checando Saldo 
+//Console.WriteLine(conta3.Numero_agencia);
+//Console.WriteLine(conta3.Conta);
+
+ContaCorrente conta4 = new ContaCorrente();

@@ -26,7 +26,7 @@ namespace Bank.Contas
         public string Conta { get; set; }
         private double saldo = 100;
         private Cliente titular; // Colocando referencia da outra classe na mesma /*Usando o NameSpace para pegar a classe*/
-
+        public Cliente Titular { get; set; }
         public void Depositar(double valor)// Definindo um metodo publico
         {
             saldo += valor;
