@@ -1,0 +1,15 @@
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\bin\Debug\net6.0\bytebank.exe
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\bin\Debug\net6.0\bytebank.deps.json
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\bin\Debug\net6.0\bytebank.dll
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\bin\Debug\net6.0\bytebank.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\bytebank.dll
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\bytebank.pdb
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+G:\Meu Drive\Meu PC\Programação\C#\Herança e Implemantando interfaces\bytebank\obj\Debug\net6.0\ref\bytebank.dll
