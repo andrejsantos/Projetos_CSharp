@@ -9,7 +9,7 @@ namespace bytebank.Funcionarios
     public class Diretor:Funcionario //Erdando A classe Diretor em Funcionarios
     {
 
-        public double Getbonificacao()
+        public override double Getbonificacao() // Override = Esse metodo é uma reescrita.
         {
             return this.Salario;
         }

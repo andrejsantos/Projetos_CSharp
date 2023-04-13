@@ -16,7 +16,7 @@ namespace bytebank.Funcionarios
         public double Salario { get; set; }
 
 
-        public double Getbonificacao()
+        public virtual double Getbonificacao() //Virtual = Pode ser reescrito por herança
         {
          
             return this.Salario * 0.10;
